@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
-
+#trace
 # Implementing Eligibility Trace
 def eligibility_trace(batch, cnn):
     targets = [] #Target for evaluation of our model
