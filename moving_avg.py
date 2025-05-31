@@ -1,4 +1,4 @@
-# Return the moving average of last 100 observations.
+#ll Return the moving average of last 100 observations.
 # To gauge the performance of our model in the last 100 steps at the end of every epoch.
 # 100 is a random number , can be anything.
 
