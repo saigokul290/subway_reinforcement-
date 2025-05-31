@@ -1,4 +1,4 @@
-# Implementing Experience Replay using ReplayMemory class.
+# Implementing Experience Replay using ReplayMemory classs.
 import numpy as np
 import torch
 import torch.nn as nn
