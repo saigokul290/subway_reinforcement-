@@ -1,6 +1,6 @@
 # The definitons and declarations of the neural network structure and the softmax function.
 
-# Importing the libraries
+# Importing the librariess
 import numpy as np
 from torch.autograd import Variable
 import matplotlib.pyplot as pyplot
